@@ -1,5 +1,6 @@
+
 const button = document.querySelector("button");
 
 button.addEventListener("click", () => {
-    button.textContent = "Button Clicked!";
+    button.textContent = "Leviathan Activated";S
 });
